@@ -1,6 +1,6 @@
 # 8+8nx Faderbank
 
-A modular faderbank based on the [16nx](https://github.com/16n-faderbank/16n) project, designed for Eurorack synthesizers and DAW MIDI control. Sends MIDI data and CV signals.
+A modular faderbank based on the [16nx](https://github.com/16n-faderbank/16nx) project, designed for Eurorack synthesizers and DAW MIDI control. Sends MIDI data and CV signals.
 
 ---
 ![Photo](images/FaderBank.jpg)
@@ -80,7 +80,7 @@ Flash the resulting `.uf2` file onto your Pico by holding BOOTSEL while plugging
 
 ## Credits
 
-Based on the [16nx faderbank](https://github.com/16n-faderbank/16n) project.
+Based on the [16nx faderbank](https://github.com/16n-faderbank/16nx) project.
 
 ---
 
